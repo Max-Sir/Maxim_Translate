@@ -1,0 +1,13 @@
+D:\Программирование\C#\Проекты\Translator\bin\Debug\Newtonsoft.Json.dll
+D:\Программирование\C#\Проекты\Translator\bin\Debug\Newtonsoft.Json.xml
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.csprojAssemblyReference.cache
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.Form1.resources
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.Properties.Resources.resources
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.csproj.GenerateResource.cache
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.csproj.CoreCompileInputs.cache
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Translator.csproj.CopyComplete
+D:\Программирование\C#\Проекты\Translator\bin\Debug\Maxim Translate.exe.config
+D:\Программирование\C#\Проекты\Translator\bin\Debug\Maxim Translate.exe
+D:\Программирование\C#\Проекты\Translator\bin\Debug\Maxim Translate.pdb
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Maxim Translate.exe
+D:\Программирование\C#\Проекты\Translator\obj\Debug\Maxim Translate.pdb
