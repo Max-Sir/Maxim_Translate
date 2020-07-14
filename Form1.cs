@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
 using System.Drawing;
+using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
@@ -35,6 +36,8 @@ namespace Translator
             }
 
             textBox2.Text = yt.Translate(textBox1.Text, lang);
+            File.AppendAllText("translation_History.txt", textBox1.Text + "----->" + textBox2.Text + "\n========================================" +
+                "============================================================================================================================================\n");
         }
 
         private void linkLabel1_LinkClicked(object sender, System.Windows.Forms.LinkLabelLinkClickedEventArgs e)
