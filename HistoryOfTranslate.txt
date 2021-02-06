@@ -2,6 +2,3 @@ Hello World :en -> Привет мир : ru
 
 
 
-
-
-
